@@ -1,14 +1,6 @@
-<iframe src="https://carlo.github.io/patreon-buttons/patreon-btn.html?creator=CREATOR"
-  allowtransparency="true"
-  frameborder="0"
-  scrolling="0"
-  width="62"
-  height="20">
-</iframe>
-
 派特雷恩
 
-# 派特隆
+# 派特雷恩
 
 > 斯拉格萊恩
 
@@ -18,7 +10,7 @@
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
-**執行摘要**
+**Executive Summary**
 
 文字
 
