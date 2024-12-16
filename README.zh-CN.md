@@ -1,20 +1,12 @@
-<iframe src="https://carlo.github.io/patreon-buttons/patreon-btn.html?creator=CREATOR"
-  allowtransparency="true"
-  frameborder="0"
-  scrolling="0"
-  width="62"
-  height="20">
-</iframe>
-
 帕特雷恩
 
-# 帕特隆
+# 帕特雷恩
 
 > 斯拉格莱恩
 
 -   [文档](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [词汇表](./GLOSSARY.md)
+-   [图片](./IMAGES.md)
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
@@ -22,7 +14,7 @@
 
 文本
 
-## 100 - 简介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
