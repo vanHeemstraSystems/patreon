@@ -1,12 +1,20 @@
-存储库名称
+<iframe src="https://carlo.github.io/patreon-buttons/patreon-btn.html?creator=CREATOR"
+  allowtransparency="true"
+  frameborder="0"
+  scrolling="0"
+  width="62"
+  height="20">
+</iframe>
 
-# 存储库名称
+帕特雷恩
+
+# 帕特隆
 
 > 斯拉格莱恩
 
 -   [文档](./DOCUMENTATION.md)
--   [词汇表](./GLOSSARY.md)
--   [图片](./IMAGES.md)
+-   [Glossary](./GLOSSARY.md)
+-   [Images](./IMAGES.md)
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
