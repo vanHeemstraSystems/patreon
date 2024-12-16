@@ -1,6 +1,6 @@
-repositorynaam
+beschermheer
 
-# Naam van opslagplaats
+# Patreon
 
 > Slaklijn
 
