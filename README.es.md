@@ -1,8 +1,8 @@
-nombre-repositorio
+patreón
 
-# Nombre del repositorio
+# Patreón
 
-> Slugline
+> línea de bala
 
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
@@ -10,7 +10,7 @@ nombre-repositorio
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Texto
 
@@ -18,7 +18,7 @@ Texto
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Requisitos
 
 Ver[README.md](./200/README.md)
 
