@@ -22,9 +22,9 @@
 
 看[README.md](./200/README.md)
 
-## 300 - 构建我们的应用程序
+## 300 - Building Our Application
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 结论
 
